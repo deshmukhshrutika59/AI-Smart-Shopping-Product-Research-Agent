@@ -136,7 +136,7 @@ AI-Smart_Shopping_Agent/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/AI-Smart_Shopping_Agent.git
+git clone https://github.com/deshmukhshrutika59/AI-Smart_Shopping_Agent.git
 cd AI-Smart_Shopping_Agent
 ```
 
