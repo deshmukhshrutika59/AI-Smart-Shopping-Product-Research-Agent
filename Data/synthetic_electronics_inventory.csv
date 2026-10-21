@@ -1,0 +1,13 @@
+﻿product_id,sku,title,brand,category,subcategory,price_inr,stock,availability,rating,reviews_count,warranty_months,connectivity,compatible_with,seller,model
+ELX-1001,NV-HUB-7P,NovaLink 7-Port USB-C Hub,NovaLink,Computer Accessories,USB Hubs,3499,42,In Stock,4.4,386,18,"USB-C, HDMI, USB 3.0, SD","Windows, macOS, ChromeOS",Orbit Retail,NLH-740
+ELX-1002,AU-TWS-ANC,Auralite AirBeat ANC Earbuds,Auralite,Audio,Wireless Earbuds,5299,18,Low Stock,4.2,614,12,Bluetooth 5.3,"Android, iOS, Windows",SoundSphere,AB-53
+ELX-1003,PX-CAM-2K,PixelArc 2K Conference Webcam,PixelArc,Cameras,Webcams,4199,0,Out of Stock,4.5,251,24,USB-C,"Teams, Zoom, Meet",Vision Works,PA-C200
+ELX-1004,VT-NVME-1T,VoltEdge 1TB Portable NVMe SSD,VoltEdge,Storage,External SSD,7499,31,In Stock,4.7,928,36,USB 3.2 Gen 2,"Windows, macOS, Android",DataDock,VE-X1T
+ELX-1005,CL-KB-RGB,CoreLeaf Compact Mechanical Keyboard,CoreLeaf,Computer Accessories,Keyboards,4599,27,In Stock,4.3,477,24,"Bluetooth, 2.4GHz, USB-C","Windows, macOS, Linux",KeyCraft India,CK-68
+ELX-1006,GR-ROUT-AX,GridRoute AX3000 Wi-Fi 6 Router,GridRoute,Networking,Routers,6799,14,Low Stock,4.1,199,36,"Wi-Fi 6, Gigabit Ethernet",Fiber and broadband networks,NetNest,GR-AX30
+ELX-1007,LS-PBANK-20,LumaSpark 20000mAh Power Bank,LumaSpark,Power,Power Banks,2899,55,In Stock,4.4,1120,12,"USB-C PD, USB-A","Phones, tablets, earbuds",ChargePoint,LS-P20
+ELX-1008,SC-MIC-USB,SonicCraft USB Studio Microphone,SonicCraft,Audio,Microphones,5899,23,In Stock,4.6,344,24,"USB-C, 3.5 mm monitoring","Windows, macOS, PS5",Creator Depot,SC-M1
+ELX-1009,EV-CAM-OUT,EverVue Outdoor Security Camera,EverVue,Security Electronics,IP Cameras,6399,9,Low Stock,4.0,158,24,"Wi-Fi, Ethernet","Android, iOS, ONVIF NVR",SecureHome,EV-O2
+ELX-1010,PR-MON-24,Prismora 24-inch FHD Monitor,Prismora,Displays,Monitors,11499,16,In Stock,4.5,533,36,"HDMI, DisplayPort, Audio Out","PC, laptop, game console",Display Junction,PM24F
+ELX-1011,FL-CHG-65,FluxCharge 65W GaN Charger,FluxCharge,Power,Wall Chargers,3199,68,In Stock,4.6,781,18,"2x USB-C, 1x USB-A","Laptops, tablets, phones",PowerPort,FC-G65
+ELX-1012,TR-MSE-ERG,TerraClick Ergonomic Wireless Mouse,TerraClick,Computer Accessories,Mice,2499,37,In Stock,4.3,405,24,"Bluetooth, 2.4GHz","Windows, macOS, Linux",DeskEase,TC-E7
