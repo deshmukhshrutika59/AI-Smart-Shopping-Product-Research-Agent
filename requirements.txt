@@ -1,0 +1,26 @@
+# UI
+streamlit
+
+# Validation / config
+pydantic
+pydantic-settings
+python-dotenv
+
+# Agent orchestration + LLM client
+agent-framework
+openai
+
+# Vector storage (Qdrant-only, embedded/local mode)
+qdrant-client
+
+# Document ingestion
+pypdf
+python-docx
+pandas
+
+# Testing
+pytest
+
+# Sample data / document generation (dev only)
+fpdf2
+python-dotenv
